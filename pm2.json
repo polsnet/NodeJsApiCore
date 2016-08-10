@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "C:UsersAdministratorWebstormProjectsC:UsersAdministratorWebstormProjectsApiCore",
+    "script": "www/production.js",
+    "cwd": "C:\Users\Administrator\WebstormProjects\ApiCore",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
