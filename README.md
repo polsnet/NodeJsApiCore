@@ -133,6 +133,11 @@ npm run start
 ```
 >注意：cwd为项目在服务器上的路径
 
+####安装pm2
+```javascript
+npm install -g pm2
+```
+
 ####启动pm2管理应用
 ```javascript
 pm2 start pm2.json

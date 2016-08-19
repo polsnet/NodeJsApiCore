@@ -12,7 +12,7 @@ export default {
       database: 'apicore',
       user: 'root',
       password: 'polaris',
-      prefix: 'yf_',
+      prefix: '',
       encoding: 'utf8'
     },
     mongo: {

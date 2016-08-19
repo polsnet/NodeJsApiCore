@@ -1,10 +1,8 @@
 {
   "apps": [{
-    "name": "ApiCore",
-    "script": "npm start www/production.js",
-    "cwd": "E:/ApiCore",
-    "exec_mode": "cluster",
-    "instances": 0,
+    "name": "apicore",
+    "script": "www/production.js",
+    "cwd": "E:\NodeJsApiCore",
     "max_memory_restart": "1G",
     "autorestart": true,
     "node_args": [],
