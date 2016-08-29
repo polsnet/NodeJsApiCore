@@ -154,7 +154,11 @@ nginx服务器配置，请参考根目录下的nginx.conf，把域名和路径�
 
 作者QQ：`7570599`    
 演示网站：
+#### oschina与github同步更新：
 
+1.http://git.oschina.net/polsnet/NodeJsApiCore
+
+2.https://github.com/polsnet/NodeJsApiCore
 
 Application created by [ThinkJS](http://www.thinkjs.org)
 
